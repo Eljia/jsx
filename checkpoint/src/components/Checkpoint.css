@@ -1,0 +1,19 @@
+img {
+  width: 400px;
+  margin: 20px;
+}
+.title {
+  text-align: justify;
+  font-size: 50px;
+  margin-left: 30px;
+}
+.App {
+  background-color: #ffde00;
+}
+.imgs {
+  display: flex;
+  justify-content: space-around;
+}
+.vid {
+  background-color: black;
+}
